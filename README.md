@@ -1,9 +1,10 @@
 # Dockerized aws-cli
+
 Docker image for aws-cli
 
 ### Current version:
 ```
-aws-cli/1.16.139 Python/2.7.15 Linux/4.9.125-linuxkit botocore/1.12.129
+aws-cli/1.16.157 Python/2.7.16 Linux/4.9.125-linuxkit botocore/1.12.147
 ```
 
 Pull:
