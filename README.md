@@ -1,3 +1,7 @@
+# No longer maintained. Kindly use official AWS CLI Docker images
+
+See [guide](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-docker.html).
+
 # Dockerized aws-cli
 
 Docker image for aws-cli
